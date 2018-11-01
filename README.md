@@ -2,8 +2,7 @@
 
 a simple calendar demo as following
 
-![calendar.png](https://github.com/madaoCN/MDCalendar/blob/master/calendar.png)
-
+![calendar.gif](https://github.com/madaoCN/MDCalendar/blob/master/calendar.gif)
 
 using collectionview to realize the calendar
 ```swift
@@ -23,6 +22,5 @@ using collectionview to realize the calendar
     }
 ```
 
-![calendar.gif](https://github.com/madaoCN/MDCalendar/blob/master/calendar.gif)
 
 it is too simple，so i have no more thing to be written.
